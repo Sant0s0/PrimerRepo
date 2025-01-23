@@ -24,3 +24,8 @@
 
     ## Una frase que me define
     - "*¿Queres jugar?*"
+
+```markdown
+## Algo divertido sobre mí
+- Me gusta jugar videojuegos.
+```
