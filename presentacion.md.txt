@@ -1,0 +1,26 @@
+    # ¡Hola, soy [Tu Nombre]!
+
+    ## Sobre mí
+    - **Nombre completo:** Santiago Osorio
+    - **Apodo:** Santoso
+    - **Edad:** 18 años
+    - **Lugar de origen:** Soy de Cali Colombia
+    - **Con quién vives:** vivo con mis papás y mi hermano
+    - **Hobby favorito:** Ver anime
+    - **Comida preferida:** Hamburguesa
+    - **Lugar que te gustaría visitar:** Me gustaría ir a estados unidos con mi hermano mayor
+
+    ## Mi familia
+    - **Personas importantes en mi vida:** 
+      - Mis papás, ambos son personas muy trabajadoras que buscan lo mejor para nosotros.
+    - **Algo que valoro de mi familia:** 
+      - Siempre nos preocupamos por los demás miembros de la familia.
+
+    ## Mis metas
+    - **Metas a corto plazo:** 
+      - Obtener una buena calificación en la linea de programación
+    - **Metas a largo plazo:** 
+      - [Lograr trabajar por un fisico del cual este orgulloso
+
+    ## Una frase que me define
+    - "*¿Queres jugar?*"
